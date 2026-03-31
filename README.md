@@ -15,7 +15,7 @@ Designed as a robust analytical tool, this dashboard automates the calculation o
 * **Sharpe Ratio:** Evaluates risk-adjusted return (defaulting to a 2% risk-free rate).
 * **Maximum Drawdown:** Identifies the largest historical peak-to-trough drop.
 
-## Financial Formulas Used
+## Financial Formulas:
 * **log returns**  $$R_t = \ln( \frac{P_t}{P_{t-1}})$$
 * **Sharpe Ratio:**  $$S_a = \frac{E[R_a - R_b]}{\sigma_a}$$
 * **Annualized Volatility** $$\sigma_{ann} = \sigma_{daily} \times \sqrt{252}$$
